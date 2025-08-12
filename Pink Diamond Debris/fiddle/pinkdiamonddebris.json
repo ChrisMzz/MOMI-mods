@@ -1,0 +1,19 @@
+{
+    "grow_back":{
+        "elligible_objects":[
+            {"candidate":"small_rock_stone_one", "votes":20},
+            {"candidate":"branch", "votes":20},
+            {"candidate":"weed", "votes":20},
+            {"candidate":"tree_pine", "votes":20},
+            {"candidate":"tree_oak", "votes":20},
+            {"candidate":"rock_pink_diamond", "votes":1}
+        ]
+    },
+    "object_prototypes":{
+        "rock":{
+            "rock_pink_diamond":{"dungeon_only":false}
+        }
+    }
+}
+
+

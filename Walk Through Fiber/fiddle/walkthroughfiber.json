@@ -1,0 +1,7 @@
+{
+    "object_prototypes":{
+        "breakable":{
+            "weed":{"collideable":false}
+        }
+    }
+}

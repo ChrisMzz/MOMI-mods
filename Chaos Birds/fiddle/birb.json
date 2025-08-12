@@ -1,0 +1,21 @@
+{
+    "birds":{
+        "default":{
+            "fly_speed":13,
+            "go_to_heaven":5,
+            "idle_time":[1,6],
+            "votes":{"fly":90}
+        }
+    },
+    "locations":{
+        "farm":{"bird_count":[10,20]},
+        "town":{"bird_count":[50,100]},
+        "eastern_road":{"bird_count":[30,60]},
+        "deep_woods":{"bird_count":[20,40]},
+        "dragonsworn_glade":{"bird_count":[10,20]},
+        "narrows":{"bird_count":[30,60]},
+        "western_ruins":{"bird_count":[10,20]},
+        "beach":{"bird_count":[30,60]},
+        "haydens_farm":{"bird_count":[30,60]}
+    }
+}
